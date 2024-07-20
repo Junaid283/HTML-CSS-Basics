@@ -1,0 +1,43 @@
+#junab
+{
+    width: 2000px;
+    height: 1500px;
+}
+h1{
+   
+        color: rgb(23, 0, 100);
+       
+      
+}
+body{
+    background-color: white;
+}
+#jony{
+    color: brown;
+    background-color: cadetblue;
+   
+}
+#box{
+    background-color: blue;
+    width: 10cm;
+    border:2px dashed violet;
+    border-radius: 25px;
+}
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+#para1{
+    width: 500px;
+    height: 500px;
+   border-width: 2px;
+   border-color: blue;
+   background-color: aqua;
+   border-style: solid;
+   text-align: center;
+   border-radius: 10%;
+   padding: 40px;
+}
+}
